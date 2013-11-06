@@ -1,21 +1,23 @@
 Age Gateways
 ============
 
+This page is an early work in progress. Please don't rely on it for anything yet.
+
 Introduction
 ++++++++++++
 
-In campaigns where alcohol brands are involved, an Age Gateway is required. This document covers the Age Gateway requirements of the Diageo sites (Smirnoff, Guinness, etc)
+In campaigns where alcohol brands are involved, an Age Gateway is required. This document covers the Age Gateway requirements of the Diageo sites (Smirnoff, Guinness, etc). An age gateway prompts the visitor for country and date of birth, in order to confirm that the visitor is of legal drinking age in their region. Visitors who are not of drinking age will receive an explanation and will be denied access to the rest of the site.
 
 Types of Age Gateways
 +++++++++++++++++++++
 
 - Diageo's "The Perfect Age Gateway", Web - This is a javascript-based age gateway hosted on the Neo platform. It provides an overlay over the current site, allowing visitors a sneek peek which results in more follow-through. This age gateway doesn't work on devices that doesn't have javascript support or have it disabled.
 
-- Jmbo Age Gateway, Web - 
+- Jmbo Age Gateway, Web - An age gateway implemented by Praekelt for the Jmbo content management system (TODO: is this Jmbo specific? What about the AG used in GFM?)
 
-- Jmbo Age Gateway, Mobi - 
+- Jmbo Age Gateway, Mobi - An age gatweay implemented by Praekelt for mobi sites built on Jmbo
 
-- USSD Age Gateway - 
+- USSD Age Gateway - An age gateway developed for the USSD platform.
 
 Scope of Work
 +++++++++++++
@@ -39,3 +41,14 @@ Code
 
 Screenshots
 +++++++++++
+
+- The USSD Age Gateway is accessible on \*120*8864*1139#
+
+Lingo
++++++
+
+- USSD - (TODO: link or description? perhaps sphinx can fetch it)
+- AG - Age Gateway
+- Mobi - Low-end device web platform
+- Web - Modern web platform which utilizes xhtml, css, javascript, html5, css3 or a combination thereof
+- Jmbo - A mobile-friendly CMS developed by Praekelt
