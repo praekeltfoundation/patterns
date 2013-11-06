@@ -85,17 +85,28 @@ qthelp:
 	@echo
 	@echo "Build finished; now you can run "qcollectiongenerator" with the" \
 	      ".qhcp project file in $(BUILDDIR)/qthelp, like this:"
+<<<<<<< HEAD
 	@echo "# qcollectiongenerator $(BUILDDIR)/qthelp/PraekeltPatternsLibrary.qhcp"
 	@echo "To view the help file:"
 	@echo "# assistant -collectionFile $(BUILDDIR)/qthelp/PraekeltPatternsLibrary.qhc"
+=======
+	@echo "# qcollectiongenerator $(BUILDDIR)/qthelp/PraekeltPatterns.qhcp"
+	@echo "To view the help file:"
+	@echo "# assistant -collectionFile $(BUILDDIR)/qthelp/PraekeltPatterns.qhc"
+>>>>>>> 30bd3900c03b44627ef9e99b821478ba11860684
 
 devhelp:
 	$(SPHINXBUILD) -b devhelp $(ALLSPHINXOPTS) $(BUILDDIR)/devhelp
 	@echo
 	@echo "Build finished."
 	@echo "To view the help file:"
+<<<<<<< HEAD
 	@echo "# mkdir -p $$HOME/.local/share/devhelp/PraekeltPatternsLibrary"
 	@echo "# ln -s $(BUILDDIR)/devhelp $$HOME/.local/share/devhelp/PraekeltPatternsLibrary"
+=======
+	@echo "# mkdir -p $$HOME/.local/share/devhelp/PraekeltPatterns"
+	@echo "# ln -s $(BUILDDIR)/devhelp $$HOME/.local/share/devhelp/PraekeltPatterns"
+>>>>>>> 30bd3900c03b44627ef9e99b821478ba11860684
 	@echo "# devhelp"
 
 epub:
