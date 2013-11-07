@@ -26,6 +26,7 @@ Considerations:
 
 - Which front-ends will the project support? An age gateway needs to be implemented for every required front-end.
 - Does the project require a mobi-site frontend? Remember that the Diageo Perfect Age Gateway only supports javascript enabled devices, which doesn't include any low-end devices.
+- The age gateway will be the first page that visitors interact with. It needs to attract users to the rest of the site without violating Diageo content policies. (see links below for more information)
 
 Limitations
 +++++++++++
@@ -52,3 +53,8 @@ Lingo
 - Mobi - Low-end device web platform
 - Web - Modern web platform which utilizes xhtml, css, javascript, html5, css3 or a combination thereof
 - Jmbo - A mobile-friendly CMS developed by Praekelt
+
+See Also
+++++++++
+
+- Diageo Marketing Code: http://www.diageo.com/en-row/newsmedia/Pages/resource.aspx?resourceid=1287
