@@ -6,7 +6,7 @@
 Welcome to Praekelt Patterns's documentation!
 =============================================
 
-Naming things is hard, naming things consistently is ever more hard.
+Naming things is hard, naming things consistently is even harder.
 The goal of this patterns repository is to help all stake holders in a
 project to know and understand what we call the individual parts that
 together make up the things we build.
