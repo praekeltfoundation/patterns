@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-.. Praekelt Patterns Library documentation master file, created by
-   sphinx-quickstart on Wed Nov  6 22:24:59 2013.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to Praekelt Patterns Library's documentation!
-=====================================================
-=======
 .. Praekelt Patterns documentation master file, created by
    sphinx-quickstart on Fri Jul  5 19:27:01 2013.
    You can adapt this file completely to your liking, but it should at least
@@ -14,12 +5,13 @@ Welcome to Praekelt Patterns Library's documentation!
 
 Welcome to Praekelt Patterns's documentation!
 =============================================
->>>>>>> 30bd3900c03b44627ef9e99b821478ba11860684
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
+
+   age-gateway.rst
 
 
 

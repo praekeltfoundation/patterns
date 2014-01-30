@@ -34,3 +34,5 @@ nosetests.xml
 .project
 .pydevproject
 /ve/
+/docs/_build/
+.DS_Store
