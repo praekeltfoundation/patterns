@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Praekelt Patterns's documentation!
-=============================================
+Praekelt Patterns!
+==================
 
 Naming things is hard, naming things consistently is even harder.
 The goal of this patterns repository is to help all stake holders in a
@@ -27,6 +27,10 @@ Patterns described in this repository should:
     You are free to contribute to this repository, it is automatically
     published from changes made in the the GitHub
     `patterns repository <https://github.com/praekelt/patterns/>`_.
+    The full backlog of things that may possibly need to be described
+    is listed in the :doc:`patterns-backlog`. Feel free to grab any of
+    those and start work on it. Remember to remove it from the backlog
+    when finished.
 
 
 .. toctree::
