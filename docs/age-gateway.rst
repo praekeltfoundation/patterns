@@ -1,8 +1,6 @@
 Age Gateways
 ============
 
-This page is an early work in progress. Please don't rely on it for anything yet.
-
 Introduction
 ++++++++++++
 
