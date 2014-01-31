@@ -47,9 +47,8 @@ Considerations:
 Limitations
 +++++++++++
 
-- The current implementations do not support link pass-through, which 
-  means that any direct link on the site results in redirection back 
-  to the homepage. There are currently plans to have this implemented.
+- Passing links through the gateway was a limitation for the Jmbo
+  age gateway but this has been implemented in December 2013.
 
 Code
 ++++
