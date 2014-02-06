@@ -20,9 +20,15 @@ Implementations
 ~~~~~~~~~~~~~~~
 
 -   Switchboard_ uses the LanguageChoice_ to allow the user to select
-    a language of preference for the duration of a USSD session. This
-    works in tandem with the `InteractionMachine`_'s utilities for
-    `fetching of translations`_ for the selected language.
+    a language of preference for the duration of a USSD session.
+
+
+Notes
+~~~~~
+
+-   Vumi Go's ``i18n`` machinery works in tandem with the
+    `InteractionMachine`_'s utilities for `fetching of translations`_
+    for the selected language.
 
 .. _`Go JSBox documentation`: http://vumi-jssandbox-toolkit.readthedocs.org/
 .. _LanguageChoice: http://vumi-jssandbox-toolkit.readthedocs.org/en/latest/states.html#LanguageChoice
