@@ -3,7 +3,6 @@ Patterns Backlog
 
 USSD Query
     - SMS Payload
-    - Booklet
     - User registration
 
 USSD Sessions
