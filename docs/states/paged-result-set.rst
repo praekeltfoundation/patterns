@@ -4,6 +4,7 @@ Paged Result Set
 The paged result set allows an end-user to page through a set of results
 that is larger than the communication channel is able to display fully.
 
+.. image:: paged-result-set.jpeg
 
 Code
 ~~~~
