@@ -4,6 +4,8 @@ Card Stack
 A card stack allows an end-user to read small bits of content in separate
 chunks. The content can be dynamically loaded from an external API.
 
+.. image:: card-stack.jpeg
+
 Code
 ~~~~
 
