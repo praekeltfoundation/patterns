@@ -7,6 +7,8 @@ the session. If language choice preference is to be maintained across
 sessions it needs to be stored somewhere more permanent than a temporary
 session store.
 
+.. image:: language-choice.jpeg
+
 Code
 ~~~~
 
@@ -25,4 +27,5 @@ Implementations
 .. _`Go JSBox documentation`: http://vumi-jssandbox-toolkit.readthedocs.org/
 .. _LanguageChoice: http://vumi-jssandbox-toolkit.readthedocs.org/en/latest/states.html#LanguageChoice
 .. _InteractionMachine: http://vumi-jssandbox-toolkit.readthedocs.org/en/latest/interaction_machine.html
-.. _`loading of translations`: http://vumi-jssandbox-toolkit.readthedocs.org/en/latest/interaction_machine.html#InteractionMachine.fetch_translation
+.. _`fetching of translations`: http://vumi-jssandbox-toolkit.readthedocs.org/en/latest/interaction_machine.html#InteractionMachine.fetch_translation
+.. _Switchboard: https://github.com/praekelt/switchboard-go/blob/master/lib/switchboard-ussd.js#L655-L672
