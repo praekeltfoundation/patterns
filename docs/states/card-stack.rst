@@ -1,8 +1,9 @@
 Card Stack
 ==========
 
-A card stack allows an end-user to read small bits of content in separate
-chunks. The content can be dynamically loaded from an external API.
+A card stack allows an end-user to read small bits of content in chunks.
+The content can be dynamically loaded from an external API. The end-user
+can navigate between them using next, previous & exit controls.
 
 .. image:: card-stack.jpeg
 
