@@ -56,7 +56,7 @@ for messaging. The code examples mostly all apply for Vumi_.
 
   states/card-stack.rst
   states/paged-result-set.rst
-
+  states/language-choice.rst
 
 Indices and tables
 ==================

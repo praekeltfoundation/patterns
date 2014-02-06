@@ -10,17 +10,17 @@ can navigate between them using next, previous & exit controls.
 Code
 ~~~~
 
-The state that implements this pattern is called the "BookletState" and
+The state that implements this pattern is called the BookletState_ and
 is documented at the `Go JSBox documentation`_.
 
 
 Implementations
 ~~~~~~~~~~~~~~~
 
-- `Girl Hub Rwanda`_ uses a card stack to display content over
-  USSD which is loaded from a Django based TastyPie API.
-- `Wikipedia Text`_ uses a card stack to allow a user to retrieve chunks
-  of a Wikipedia article's content via SMS.
+-   `Girl Hub Rwanda`_ uses a card stack to display content over
+    USSD which is loaded from a Django based TastyPie API.
+-   `Wikipedia Text`_ uses a card stack to allow a user to retrieve chunks
+    of a Wikipedia article's content via SMS.
 
 
 Notes
@@ -37,5 +37,6 @@ Notes
 
 
 .. _`Girl Hub Rwanda`: https://github.com/praekelt/go-nike-ghr/blob/develop/js_sandbox/lib/go-nike-ghr.js#L441-L459
-.. _`Go JSBox documentation`: http://vumi-jssandbox-toolkit.readthedocs.org/en/latest/states.html#BookletState
+.. _`Go JSBox documentation`: http://vumi-jssandbox-toolkit.readthedocs.org/
+.. _BookletState: http://vumi-jssandbox-toolkit.readthedocs.org/en/latest/states.html#BookletState
 .. _`Wikipedia Text`: https://github.com/praekelt/vumi-wikipedia/
