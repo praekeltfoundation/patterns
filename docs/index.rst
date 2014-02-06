@@ -54,7 +54,7 @@ for messaging. The code examples mostly all apply for Vumi_.
 .. toctree::
   :maxdepth: 1
 
-  states/booklet.rst
+  states/card-stack.rst
 
 
 Indices and tables
