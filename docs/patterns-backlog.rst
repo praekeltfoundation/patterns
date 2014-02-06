@@ -91,9 +91,10 @@ Internationalisation
     - Languages
     - Countries
 
-Apps
+Mobile Apps
     - Native
     - HTML5 / phonegap
+    - Versioning - show a version or build number somewhere to confirm users have the latest version
 
 Vouchering
 
