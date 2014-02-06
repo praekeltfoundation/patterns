@@ -10,7 +10,7 @@ can navigate between them using next, previous & exit controls.
 Code
 ~~~~
 
-The state that implements this pattern is called the `BookletState` and
+The state that implements this pattern is called the "BookletState" and
 is documented at the `Go JSBox documentation`_.
 
 
