@@ -33,11 +33,28 @@ Patterns described in this repository should:
     when finished.
 
 
+Mobi & Web Patterns
+-------------------
+
+These are a collection of patterns that mostly apply to Mobi & Web sites
+we develop.
+
 .. toctree::
    :maxdepth: 1
 
    age-gateway.rst
 
+Messaging & USSD Patterns
+-------------------------
+
+These are a collection of patterns that apply to applications designed
+for messaging. The code examples mostly all apply for Vumi_.
+
+
+.. toctree::
+  :maxdepth: 1
+
+  states/card-stack.rst
 
 
 Indices and tables
@@ -47,3 +64,4 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+.. _Vumi: http://www.vumi.org/
