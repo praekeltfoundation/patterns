@@ -15,7 +15,7 @@ is documented at the `Go JSBox documentation`_.
 
 
 Implementations
----------------
+~~~~~~~~~~~~~~~
 
 - `Girl Hub Rwanda`_ uses a card stack to display content over
   USSD which is loaded from a Django based TastyPie API.
