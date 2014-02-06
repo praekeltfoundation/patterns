@@ -29,10 +29,11 @@ Notes
 -   For USSD there is generally a maximum window of 30 seconds within
     which the content needs to be displayed, read and be responded to
     before a timeout is reached.
--   There is no limit on how many pages a Booklet can contain. If this uses
-    a session based transport like USSD the limits are all determined by
-    the total session length that the mobile network operator imposes.
-    In South Africa this is 3 minutes but this varies per country.
+-   There is no limit on how many pages a Card Stack can contain.
+    If this uses a session based transport like USSD the limits are all
+    determined by the total session length that the mobile network
+    operator imposes. In South Africa this is 3 minutes but this varies
+    per country.
 
 
 .. _`Girl Hub Rwanda`: https://github.com/praekelt/go-nike-ghr/blob/develop/js_sandbox/lib/go-nike-ghr.js#L441-L459
