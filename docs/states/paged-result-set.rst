@@ -21,6 +21,7 @@ Implementations
     to select a cadre from a long list of cadres.
 -   mAgriculture_ used a paged result set to allow a farmer to select
     crops from a long list of known crops.
+-   NewsWorld_ uses a paged result set to display a list of news headlines.
 
 Notes
 ~~~~~
@@ -35,3 +36,4 @@ Notes
 .. _`RTS Zambia`: https://github.com/praekelt/go-rts-zambia/blob/develop/js_sandbox/lib/go-rts-zambia.js#L576-L592
 .. _Switchboard: https://github.com/praekelt/switchboard-go/blob/master/lib/switchboard-ussd.js#L691-L706
 .. _mAgriculture: https://github.com/praekelt/magriculture/blob/develop/go-js/lib/magri-ussd.js#L549-L564
+.. _NewsWorld: https://github.com/miltontony/newsworld-vumi/blob/develop/lib/newsworld-vumi.js#L123-L137
