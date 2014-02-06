@@ -55,6 +55,7 @@ for messaging. The code examples mostly all apply for Vumi_.
   :maxdepth: 1
 
   states/card-stack.rst
+  states/paged-result-set.rst
 
 
 Indices and tables
