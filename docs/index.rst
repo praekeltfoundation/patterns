@@ -43,6 +43,7 @@ we develop.
    :maxdepth: 1
 
    age-gateway.rst
+   rendering/responsive-template.rst
 
 Messaging & USSD Patterns
 -------------------------
