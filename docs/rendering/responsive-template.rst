@@ -26,7 +26,8 @@ The screenshot below depicts how the Guinness Football Manager responsive site r
 
 The screenshots below depict what the exact same webpage looks like when the width is reduced. The client-side javascript will automatically apply the required changes. A red arrow is added to The screenshot on the left to indicate the location of the menu button, while the screenshot on the right has been modified to highlight the resulting menu when the button is pressed.
 
-.. image:: mobile-web-render-menu.png mobile-web-render.png
+.. image:: mobile-web-render-menu.png
+.. image:: mobile-web-render.png
 
 Scoping Considerations
 ++++++++++++++++++++++
