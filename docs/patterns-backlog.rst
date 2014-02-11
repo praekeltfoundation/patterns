@@ -128,6 +128,5 @@ Radio or Broadcast specific
     - News, Galleries, Polls, Podcasts for that show
 
 Websites
-    - Web/Responsive
     - Mobisite
     - Mxit site
