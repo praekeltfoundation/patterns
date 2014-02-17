@@ -44,6 +44,7 @@ we develop.
 
    age-gateway.rst
    rendering/responsive-template.rst
+   rendering/mobisite-template.rst
 
 Messaging & USSD Patterns
 -------------------------
