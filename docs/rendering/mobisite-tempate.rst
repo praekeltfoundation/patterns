@@ -32,8 +32,9 @@ may appear even more basic.
 Code
 ++++
 
-- Stick only to the most basic HTML elements when designing sites
-  for mobile devices.
+- Use only to the most basic HTML elements when designing sites
+  for mobile devices. Anything else may be too loosely defined
+  and be subject to being ignored or incorrectly rendered.
 
 Device Detection
 ++++++++++++++++
