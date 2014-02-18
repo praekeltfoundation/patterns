@@ -1,5 +1,5 @@
-Mobile Website (mobisite)
-=========================
+Mobile Website
+==============
 
 Introduction
 ++++++++++++
