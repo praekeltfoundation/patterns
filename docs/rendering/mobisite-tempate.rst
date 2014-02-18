@@ -26,8 +26,8 @@ styling. These are rendered on a desktop browser, on mobi devices they
 may appear even more basic.
 
 .. image:: mobisite-ummeli.png
-.. image:: mobisite-yal.png
-.. image:: mobisite-mama.png
+.. image:: mobisite_yal.png
+.. image:: mobisite_mama.png
 
 Code
 ++++
