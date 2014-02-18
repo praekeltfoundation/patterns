@@ -27,10 +27,6 @@ Random
     - Multiple prize categories
     - Influenced by time (within times of day, or probability increasing at certain times)
 
-Handset Detection
-    - Responsive Template
-    - Feature Phone Templates
-
 Survey/Quiz
 
 Randomization
@@ -128,5 +124,4 @@ Radio or Broadcast specific
     - News, Galleries, Polls, Podcasts for that show
 
 Websites
-    - Mobisite
     - Mxit site
