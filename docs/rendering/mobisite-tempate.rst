@@ -48,4 +48,4 @@ refer to the Device Detection pattern doc for more information.
 
 See Also:
 
-- Device Detection Pattern
+- DeviceDetectionforTheWeb_
